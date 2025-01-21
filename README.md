@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This project aimed to leverage customer data to segment the audience, understand different behaviors, and identify high-value customer groups. The insights will enable targeted marketing and personalized engagement strategies.
+<p align="justify">This project aimed to leverage customer data to segment the audience, understand different behaviors, and identify high-value customer groups. The insights will enable targeted marketing and personalized engagement strategies.</p>
 
 ## Problem Statement
 
@@ -37,16 +37,39 @@ This project aimed to leverage customer data to segment the audience, understand
 
 Data visualization was created with power bi and Tableau using different charts to highlight hidden insights from the data.
 
+# Power BI Dashboard
 ![](PowerBI_dashboard.png)
 
 **Features**:
 - The total sales, Cost of goods sold and Gross sales are (118.73M, 101.83M, 127.93M) respectively.
 - Water fall chart for the Sales by Country which derived that the United States of America has the highest sales among the five present countries while Mexico had lowest sales.
 - Pie Chart for the profit by product which derived that Five products were present and Paseo had the highest sales out of all product while Carettera had lowest sales.
-- Stacked bar char for the sales and profit by segment which derived from the Four segments available; Government had highest sales while Channel Partners had lowest sales. Government had highest profit, there’s a decline of profit in Enterprise.
-- Four slicers were used to filter the records which are: Product, Month name, Segment, Year.
+- <p align="justify"> Stacked bar char for the sales and profit by segment which derived from the Four segments available; Government had highest sales while Channel Partners had lowest sales. Government had highest profit, there’s a decline of profit in Enterprise.</p>
+- Four slicers were used to filter the records which are: Product, Month name, Segment, Year. 
 
 _You can interact with the Power BI dashboard_ [here](https://app.powerbi.com/groups/me/reports/f16ffce9-871c-424b-b120-21a2410d89f4/ReportSectionf63e04f122eaa0196717?experience=power-bi)
+
+# Tableau Dashboard
+![](Tableau_Dashboard.jpg)
+
+**Features**:
+- Profit by Product
+Chart Type: Bar chart
+Insights: Five products were present and Paseo had the highest sales out of all product while Carettera had lowest sales.
+
+- Sales by Segment
+Chart Type: Stacked bar chart
+Insights: Four segments were available, Government had highest sales while Channel Partners had lowest sales.
+ 
+- Month by Profit and sales
+Chart Type: Tree Map
+Insights: From the result, October had highest sales and also highest profit followed by December while March had lowest sales and lowest profit.
+
+- Year by Sales and Profit
+Chart type: Line Chart
+Insights: From the result, 2014 had highest sales and profit while 2013 had decline sales and profit.
+
+*You can access the tableau file* [here](https://github.com/kouatcheu1/Financial_and_Behavioral_Analysis/blob/main/Tableau_Dashboard.twb)
 
 ## Analysis 📉📈
 
