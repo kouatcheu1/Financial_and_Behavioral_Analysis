@@ -38,7 +38,7 @@
 Data visualization was created with power bi and Tableau using different charts to highlight hidden insights from the data.
 
 # Power BI Dashboard
-![](PowerBI_dashboard.png)
+![](PowerBI_financial_dashboard2.jpg)
 
 **Features**:
 - The total sales, Cost of goods sold and Gross sales are (118.73M, 101.83M, 127.93M) respectively.
