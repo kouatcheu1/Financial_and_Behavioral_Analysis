@@ -43,8 +43,8 @@ Data visualization was created with power bi and Tableau using different charts 
 **Features**:
 - The total sales, Cost of goods sold and Gross sales are (118.73M, 101.83M, 127.93M) respectively.
 - Water fall chart for the Sales by Country which derived that the United States of America has the highest sales among the five present countries while Mexico had lowest sales.
-- Pie Chart for the profit by product which derived that Five products were present and Paseo had the highest sales out of all product while Carettera had lowest sales.
-- <p align="justify"> Stacked bar char for the sales and profit by segment which derived from the Four segments available; Government had highest sales while Channel Partners had lowest sales. Government had highest profit, there’s a decline of profit in Enterprise.</p>
+- Pie Chart for the profit by product; derived that six products were present and Paseo had the highest sales out of all product while Carettera had lowest sales.
+- <p align="justify"> Stacked bar char for the sales and profit by segment which derived from the Five segments available; Government had highest sales while Channel Partners had lowest sales. Government had highest profit, there’s a decline of profit in Enterprise.</p>
 - Four slicers were used to filter the records which are: Product, Month name, Segment, Year. 
 
 _You can interact with the Power BI dashboard_ [here](https://app.powerbi.com/groups/me/reports/f16ffce9-871c-424b-b120-21a2410d89f4?ctid=b61d2979-8126-486f-b13f-5007573345f0&pbi_source=linkShare)
@@ -55,11 +55,11 @@ _You can interact with the Power BI dashboard_ [here](https://app.powerbi.com/gr
 **Features**:
 - Profit by Product
 Chart Type: Bar chart
-Insights: Five products were present and Paseo had the highest sales out of all product while Carettera had lowest sales.
+Insights: Six products were present and Paseo had the highest sales out of all product while Carettera had lowest sales.
 
 - Sales by Segment
 Chart Type: Stacked bar chart
-Insights: Four segments were available, Government had highest sales while Channel Partners had lowest sales.
+Insights: Five segments were available, Government had highest sales while Channel Partners had lowest sales.
  
 - Month by Profit and sales
 Chart Type: Tree Map
