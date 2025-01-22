@@ -47,7 +47,7 @@ Data visualization was created with power bi and Tableau using different charts 
 - <p align="justify"> Stacked bar char for the sales and profit by segment which derived from the Five segments available; Government had highest sales while Channel Partners had lowest sales. Government had highest profit, there’s a decline of profit in Enterprise.</p>
 - Four slicers were used to filter the records which are: Product, Month name, Segment, Year. 
 
-_You can interact with the Power BI dashboard_ [here](https://app.powerbi.com/groups/me/reports/f16ffce9-871c-424b-b120-21a2410d89f4?ctid=b61d2979-8126-486f-b13f-5007573345f0&pbi_source=linkShare)
+_You can interact with the Power BI dashboard_ [here](https://github.com/kouatcheu1/Financial_and_Behavioral_Analysis/blob/main/Financial_Power_BI_Dashboard.pbix)
 
 # Tableau Dashboard
 ![](Tableau_Dashboard.jpg)
